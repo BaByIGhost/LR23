@@ -10,7 +10,7 @@
 
 Рисунок 23.1 - Окно Hierarchy
 
-![image](https://user-images.githubusercontent.com/119486614/205434425-6f91a39a-15be-410f-8288-68d1f265acdb.png)
+![image](https://user-images.githubusercontent.com/119486614/205434867-d1c77d57-66b6-4253-b591-afca24be5669.png)
 
 Рисунок 23.2 - Окно Scene
 
